@@ -5,3 +5,15 @@ dist/
 .env.*
 !.env.example
 .DS_Store
+
+# Video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.m4v
+*.wmv
+*.flv
+*.mpg
+*.mpeg
