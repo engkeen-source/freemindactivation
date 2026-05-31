@@ -343,6 +343,7 @@ a { color: inherit; text-decoration: none; }
   outline-offset: 8px;
   box-shadow: 0 12px 48px rgba(44, 40, 34, 0.14);
 }
+
 .coach-content {
   flex: 1;
   display: flex;
@@ -551,6 +552,7 @@ a { color: inherit; text-decoration: none; }
   .creds li { text-align: left; }
   .coach-photo-wrap { flex: unset; }
   .coach-photo-wrap img { width: 220px; height: 220px; }
+
   .coaches-head { margin-bottom: 2rem; }
 
   .footer-inner { flex-direction: column; text-align: center; }
