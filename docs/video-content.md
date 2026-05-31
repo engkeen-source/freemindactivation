@@ -29,3 +29,12 @@
 - What is the one thing you want every participant to take home?
 - Who is this workshop really for?
 - What would you say to someone who is hesitant to join?
+
+---
+
+## Video 4 — Participant Testimonial
+
+- Before the workshop, what were you feeling or struggling with?
+- What was your experience during the session?
+- What changed for you after the workshop?
+- Who would you recommend this to?
